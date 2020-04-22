@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-https://stepik.org/lesson/187065/step/7?unit=161976
+Репозиторий для хранения домашних заданий по курсу "Автоматизация тестирования с помощью Selenium и Python"
